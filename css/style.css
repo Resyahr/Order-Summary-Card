@@ -50,7 +50,6 @@ body {
     display: grid;
     align-items: center;
     justify-items: center;
-    place-items: center;
     background-color: var(--very-pale-blue);
     height: 100vh;
 }
