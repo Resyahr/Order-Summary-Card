@@ -48,8 +48,9 @@ body {
     background-repeat: no-repeat;
     background-size: contain;
     display: grid;
-
+    align-items: center;
     justify-items: center;
+    place-items: center;
     background-color: var(--very-pale-blue);
     height: 100vh;
 }
