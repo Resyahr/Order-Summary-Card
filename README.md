@@ -5,3 +5,4 @@
 # Order-Summary-Card
 Layout created using HTML and CSS (Flexbox and Grid)
 
+Practicing layouts
